@@ -10,4 +10,3 @@ class Solution:
                 ans[i%n]=stack[-1]
             stack.append(nums[i%n])
         return ans
-        
