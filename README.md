@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
