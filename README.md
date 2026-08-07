@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
