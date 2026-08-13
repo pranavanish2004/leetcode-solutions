@@ -3,15 +3,15 @@ class Solution:
         current_prefix=0
         dici={0:1}
         count=0
-        for num in nums:
-            current_prefix+=num
-            previous_prefix=current_prefix-k
+        sums=0
+        for i in range(len(nums)):
+            sums +=nums[i]
+            previous_prefix=sums-k
             if previous_prefix in dici:
-                count+=dici[previous_prefix]
-            if current_prefix in dici:
-                dici[current_prefix]=dici[current_prefix]+1
+                count=count+dici[previous_prefix]
+            if sums not in dici:
+                dici[sums]=1
             else:
-                dici[current_prefix]=1
+                dici[sums]+=1
         return count
-
 
