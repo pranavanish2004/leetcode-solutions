@@ -8,9 +8,9 @@ class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
         queue=deque()
         ans=[]
-        queue.append(root)
         if root is None:
             return []
+        queue.append(root)
         while queue:
             size=len(queue)
             level=[]
