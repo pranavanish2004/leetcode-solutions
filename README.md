@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Recursion
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
