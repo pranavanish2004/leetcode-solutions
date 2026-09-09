@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
