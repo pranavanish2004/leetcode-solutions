@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0767-reorganize-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Timsort
 |  |
 | ------- |
@@ -355,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
