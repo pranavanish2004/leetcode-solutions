@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## String
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1768-merge-strings-alternately](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranavanish2004/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
 |  |
 | ------- |
