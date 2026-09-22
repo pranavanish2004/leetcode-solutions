@@ -11,23 +11,18 @@ class Solution:
         for node in lists:
             if node is not None:
                 heapq.heappush(heap,(node.val,counter,node))
-            counter+=1
-        #dummy node to build answer
+                counter+=1
+        #add to ans
         dummy=ListNode(0)
         current=dummy
-        #continue until heap becomes empty
-        while len(heap)>0:
-            #get smaller node
+        while(len(heap)>0):
             value,counter,node=heapq.heappop(heap)
-
-            #Add it to answer
             current.next=node
             current=current.next
-
-            #put node from same list into heap
             if node.next is not None:
                 heapq.heappush(heap,(node.next.val,counter,node.next))
                 counter+=1
         return dummy.next
+    
 
         
