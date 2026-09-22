@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0086-partition-list) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -419,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
