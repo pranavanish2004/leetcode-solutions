@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -441,4 +443,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
