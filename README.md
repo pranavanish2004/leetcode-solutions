@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
 |  |
