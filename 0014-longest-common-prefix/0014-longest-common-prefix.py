@@ -1,5 +1,5 @@
 class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
+    def longestCommonPrefix(self, strs: list[str]) -> str:
         strs.sort()
         first=strs[0]
         last=strs[-1]
@@ -7,4 +7,6 @@ class Solution:
         while i<len(first) and first[i]==last[i]:
             i+=1
         return first[:i]
+        
+
         
