@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -509,4 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0994-rotting-oranges) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
