@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
