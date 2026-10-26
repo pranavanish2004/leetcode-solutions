@@ -1,11 +1,11 @@
+import math
 class Solution:
-    def minEatingSpeed(self, piles: List[int], h: int) -> int:
+    def minEatingSpeed(self, piles: list[int], h: int) -> int:
         def kokopiles(k):
             hours=0
             for pile in piles:
-                hours=hours+math.ceil(pile/k)
+                hours=hours+ceil(pile/k)
             return hours<=h
-        #binary search
         l=1
         r=max(piles)
         while(l<=r):
