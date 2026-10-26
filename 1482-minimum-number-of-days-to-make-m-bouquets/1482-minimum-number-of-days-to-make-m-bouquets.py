@@ -14,7 +14,7 @@ class Solution:
             return bouquet>=m
         if(m*k>len(bloomDay)):
             return -1
-        l=1
+        l=min(bloomDay)
         r=max(bloomDay)
         while(l<=r):
             mid=(l+r)//2
