@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
