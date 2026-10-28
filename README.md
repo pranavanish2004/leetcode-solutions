@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -528,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1051-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
