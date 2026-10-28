@@ -1,7 +1,7 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         
-        while n!=1 and n!=4 :
+        while n!=1 and n!=4:
             ans=0
             while(n>0):
                 num=n%10
