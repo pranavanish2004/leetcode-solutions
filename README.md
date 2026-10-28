@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0204-count-primes) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -561,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
