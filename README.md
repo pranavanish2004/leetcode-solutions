@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1572-matrix-diagonal-sum](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
