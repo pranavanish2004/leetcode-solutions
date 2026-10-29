@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0343-integer-break) |
+| [0412-fizz-buzz](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Linked List
