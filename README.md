@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/pranavanish2004/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/pranavanish2004/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
