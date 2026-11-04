@@ -14,10 +14,10 @@ class Solution:
                 
                 #if(total==target):
                     #return total
-                elif(total<target):
-                    l+=1
-                else:
+                if(total>target):
                     r-=1
+                else:
+                    l+=1
         return closest
         
         
