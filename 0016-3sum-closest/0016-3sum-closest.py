@@ -5,17 +5,19 @@ class Solution:
         for i in range(len(nums)-2):
             l=i+1
             r=len(nums)-1
+            
             while(l<r):
                 total=nums[i]+nums[l]+nums[r]
+
                 if(abs(total-target)<abs(closest-target)):
                     closest=total
-                if(total==target):
-                    return total
-                elif(total>target):
-                    r-=1
-                else:
+                
+                #if(total==target):
+                    #return total
+                elif(total<target):
                     l+=1
+                else:
+                    r-=1
         return closest
-
-
+        
         
